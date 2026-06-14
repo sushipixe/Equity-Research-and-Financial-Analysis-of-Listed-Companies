@@ -9,7 +9,6 @@ This project focuses on the fundamental analysis of publicly listed companies us
 ## Dataset Used
 - <a herf="https://github.com/sushipixe/Equity-Research-and-Financial-Analysis-of-Listed-Companies/blob/main/Sunday%20class%20Financial%20Modelling%20sheet.xlsx">Dataset View</a>
 
-
 ## Looking for a custome dashboard? Let's connect!
 
 <img width="1891" height="533" alt="Screenshot 2026-06-14 065107" src="https://github.com/user-attachments/assets/87f6a364-fdab-4ff8-9bdf-977d7c25d97d" />
