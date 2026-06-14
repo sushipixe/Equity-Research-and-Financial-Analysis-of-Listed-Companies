@@ -7,10 +7,11 @@ I'm excited to share my Equity Research and Financial Analysis project, develope
 This project focuses on the fundamental analysis of publicly listed companies using financial statements, valuation metrics, and ratio analysis to evaluate investment opportunities and business performance.
 
 ## Dataset Used
-<a href="https://raw.githubusercontent.com/sushipixe/Equity-Research-and-Financial-Analysis-of-Listed-Companies/main/Sunday%20class%20Financial%20Modelling%20sheet.xlsx" target="_blank">
-  <img src="https://img.shields.io/badge/View-Dataset-blue?style=for-the-badge" alt="Dataset View">
-</a>
-
+<p align="center">
+  <a href="https://docs.google.com/spreadsheets/d/1PYlxIhtxxCXArDq9P51kARNM8Nuz32ZpvbYhg_7zEl8/edit?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View-Financial_Model-blue?style=for-the-badge" alt="View Financial Model">
+  </a>
+</p>
 ## Looking for a custome dashboard? Let's connect!
 
 <img width="1891" height="533" alt="Screenshot 2026-06-14 065107" src="https://github.com/user-attachments/assets/87f6a364-fdab-4ff8-9bdf-977d7c25d97d" />
